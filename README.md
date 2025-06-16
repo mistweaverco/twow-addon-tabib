@@ -17,6 +17,8 @@ Tabib (طبيب) is arabic for "healer" or "doctor".
 
 <p></p>
 
+</div>
+
 ## Requirements
 
 - [Turtle WoW](https://turtle-wow.org/) client
