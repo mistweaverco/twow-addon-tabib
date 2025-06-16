@@ -26,7 +26,7 @@ Tabib (طبيب) is arabic for "healer" or "doctor".
 
 ## Install
 
-1. Just paste the GitHub repository URL into the Super WoW Addon Manager and install it.
+1. Just paste the GitHub repository URL into the Turtle WoW Addon Manager and install it.
 
 ## Usage
 
